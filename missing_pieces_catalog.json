@@ -1,13 +1,14 @@
 {
-  "version": "1.1.0",
-  "lastUpdated": "2026-11-24T00:00:00Z",
+  "version": "2.0.0",
+  "lastUpdated": "2026-11-25T00:00:00Z",
+  "market": "MA",
   "pieces": [
     {
       "id": "mp_top_001",
-      "name": "Relaxed Extra-Fine Merino Knit",
-      "brand": "Uniqlo",
-      "price": 49.9,
-      "currency": "$",
+      "name": "Relaxed Fine-Knit Cream Sweater",
+      "brand": "Zara",
+      "price": 459.0,
+      "currency": "MAD",
       "category": "Top",
       "subCategory": "Sweater",
       "targetGender": "unisex",
@@ -21,21 +22,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_top_001.png",
-      "affiliateUrl": "https://www.uniqlo.com/us/en/products/E450535-000?colorCode=COL30&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
+      "affiliateUrl": "https://www.zara.com/ma/en/search?searchTerm=cream+knit+sweater&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "neutral_foundation",
         "layering_piece",
         "warm_palette"
       ],
-      "partnerName": "Uniqlo",
-      "description": "Premium 19.5-micron fine merino wool in a soft cream tone that bridges dark denim and light trousers effortlessly."
+      "partnerName": "Zara Maroc",
+      "description": "Soft fine-gauge knit in warm ecru cream that bridges dark denim and tailored trousers effortlessly."
     },
     {
       "id": "mp_top_002",
-      "name": "Crisp Poplin Relaxed Shirt",
-      "brand": "COS",
-      "price": 89.0,
-      "currency": "$",
+      "name": "Crisp Relaxed Cotton Poplin Shirt",
+      "brand": "Massimo Dutti",
+      "price": 699.0,
+      "currency": "MAD",
       "category": "Top",
       "subCategory": "Tops",
       "targetGender": "menswear",
@@ -48,21 +49,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_top_002.png",
-      "affiliateUrl": "https://www.cos.com/en_usd/men/shirts/poplin-relaxed.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.massimodutti.com/ma/search?q=white+poplin+shirt&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "neutral_foundation",
         "top_gap",
         "layering_piece"
       ],
-      "partnerName": "COS",
-      "description": "Pure organic cotton with a structured spread collar. Essential foundation for any tailoring or relaxed smart ensemble."
+      "partnerName": "Massimo Dutti Maroc",
+      "description": "100% crisp cotton poplin with a structured spread collar. Essential foundation for office tailoring or smart casual looks."
     },
     {
       "id": "mp_top_003",
       "name": "Boxy Heavyweight Cotton Tee",
-      "brand": "Arket",
-      "price": 39.0,
-      "currency": "$",
+      "brand": "Jack & Jones",
+      "price": 199.0,
+      "currency": "MAD",
       "category": "Top",
       "subCategory": "T-Shirt",
       "targetGender": "unisex",
@@ -76,20 +77,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_top_003.png",
-      "affiliateUrl": "https://www.arket.com/en_usd/men/t-shirts/heavyweight-boxy.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.jackjones.com/fr-ma/search?q=t-shirt+noir+boxy&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "neutral_foundation",
         "top_gap"
       ],
-      "partnerName": "Arket",
-      "description": "220gsm dense organic combed jersey. Holds a sharp silhouette beneath open shirts and jackets."
+      "partnerName": "Jack & Jones Maroc",
+      "description": "Heavyweight dense organic cotton jersey. Holds a clean architectural silhouette beneath open shirts and jackets."
     },
     {
       "id": "mp_top_004",
-      "name": "Oversized Breton Striped Sailor Tee",
-      "brand": "Armor-Lux",
-      "price": 75.0,
-      "currency": "$",
+      "name": "Oversized Breton Striped Tee",
+      "brand": "Mango",
+      "price": 299.0,
+      "currency": "MAD",
       "category": "Top",
       "subCategory": "T-Shirt",
       "targetGender": "unisex",
@@ -103,20 +104,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_top_004.png",
-      "affiliateUrl": "https://www.armorlux.com/en/breton-striped-tee?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://shop.mango.com/ma/fr/search?kw=t-shirt+rayures+marine&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "pattern_anchor",
         "cool_palette"
       ],
-      "partnerName": "Armor-Lux",
-      "description": "Heritage French nautical stripes in navy and optical white. Adds visual texture to neutral separates."
+      "partnerName": "Mango Maroc",
+      "description": "Mediterranean nautical stripes in deep navy and optical white. Adds instant texture to solid neutral separates."
     },
     {
       "id": "mp_top_005",
-      "name": "Draped Silk-Blend Blouse",
+      "name": "Draped Satin-Fluid Ecru Blouse",
       "brand": "Massimo Dutti",
-      "price": 119.0,
-      "currency": "$",
+      "price": 799.0,
+      "currency": "MAD",
       "category": "Top",
       "subCategory": "Tops",
       "targetGender": "womenswear",
@@ -129,21 +130,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_top_005.png",
-      "affiliateUrl": "https://www.massimodutti.com/us/women/shirts/silk-blend-draped.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.massimodutti.com/ma/search?q=fluid+draped+blouse&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "neutral_foundation",
         "top_gap",
         "layering_piece"
       ],
-      "partnerName": "Massimo Dutti",
-      "description": "Fluid mulberry silk blend with a subtle cowl neckline. Moves seamlessly from daytime tailoring to evening looks."
+      "partnerName": "Massimo Dutti Maroc",
+      "description": "Fluid draped blouse with a refined neckline. Transitions seamlessly from Casablanca office hours to evening dinners."
     },
     {
       "id": "mp_top_006",
-      "name": "French Terry Garment-Dyed Hoodie",
-      "brand": "Reigning Champ",
-      "price": 140.0,
-      "currency": "$",
+      "name": "Heavyweight French Terry Hoodie",
+      "brand": "Bershka",
+      "price": 399.0,
+      "currency": "MAD",
       "category": "Top",
       "subCategory": "Hoodie",
       "targetGender": "unisex",
@@ -156,20 +157,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_top_006.png",
-      "affiliateUrl": "https://reigningchamp.com/products/midweight-terry-hoodie-heather-grey?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.bershka.com/ma/q/sweat%20capuche%20gris?utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "neutral_foundation",
         "street_anchor"
       ],
-      "partnerName": "Reigning Champ",
-      "description": "Midweight Canadian handcrafted terry in heather grey with set-in raglan sleeves for effortless proportions."
+      "partnerName": "Bershka Maroc",
+      "description": "Structured heavyweight cotton-blend terry in heather grey with dropped shoulders for clean relaxed proportions."
     },
     {
       "id": "mp_bot_001",
       "name": "Wide-Leg Double Pleated Trousers",
-      "brand": "COS",
-      "price": 135.0,
-      "currency": "$",
+      "brand": "Zara",
+      "price": 599.0,
+      "currency": "MAD",
       "category": "Bottom",
       "subCategory": "Trousers",
       "targetGender": "unisex",
@@ -182,20 +183,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_bot_001.png",
-      "affiliateUrl": "https://www.cos.com/en_usd/men/trousers/wide-leg-pleated-charcoal.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.zara.com/ma/en/search?searchTerm=wide+pleated+trousers+charcoal&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "bottom_heavy_opposite",
         "neutral_foundation"
       ],
-      "partnerName": "COS",
-      "description": "Fluid drape wool-blend twill with twin front knife pleats and an architectural relaxed silhouette."
+      "partnerName": "Zara Maroc",
+      "description": "Fluid drape charcoal twill with twin front pleats and an architectural wide-leg silhouette."
     },
     {
       "id": "mp_bot_002",
-      "name": "Straight-Leg Selvedge Raw Denim",
-      "brand": "A.P.C.",
-      "price": 195.0,
-      "currency": "$",
+      "name": "Straight-Leg Rigid Indigo Jeans",
+      "brand": "Jack & Jones",
+      "price": 549.0,
+      "currency": "MAD",
       "category": "Bottom",
       "subCategory": "Jeans",
       "targetGender": "unisex",
@@ -209,21 +210,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_bot_002.png",
-      "affiliateUrl": "https://www.apc-us.com/products/petit-new-standard-indigo?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.jackjones.com/fr-ma/search?q=jean+droit+indigo&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "bottom_heavy_opposite",
         "neutral_foundation",
         "denim_anchor"
       ],
-      "partnerName": "A.P.C.",
-      "description": "12.75oz Japanese unwashed raw denim with red selvedge ID. The ultimate foundational bottom for boots and sneakers."
+      "partnerName": "Jack & Jones Maroc",
+      "description": "Clean deep-indigo rigid straight denim. The foundational everyday trouser for sneakers, loafers, and boots."
     },
     {
       "id": "mp_bot_003",
       "name": "Tailored Relaxed Chinos in Warm Khaki",
-      "brand": "Everlane",
-      "price": 88.0,
-      "currency": "$",
+      "brand": "Jack & Jones",
+      "price": 449.0,
+      "currency": "MAD",
       "category": "Bottom",
       "subCategory": "Trousers",
       "targetGender": "menswear",
@@ -236,21 +237,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_bot_003.png",
-      "affiliateUrl": "https://www.everlane.com/products/mens-performance-chino-khaki?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.jackjones.com/fr-ma/search?q=chino+beige+khaki&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "bottom_heavy_opposite",
         "warm_palette",
         "neutral_foundation"
       ],
-      "partnerName": "Everlane",
-      "description": "Crisp washed stretch-cotton twill in a balanced warm tan hue that pairs instantly with black, white, and navy tops."
+      "partnerName": "Jack & Jones Maroc",
+      "description": "Crisp stretch-cotton twill in balanced warm khaki that pairs instantly with white, black, and navy tops."
     },
     {
       "id": "mp_bot_004",
-      "name": "High-Waisted Tailored Linen Pants",
-      "brand": "Arket",
-      "price": 115.0,
-      "currency": "$",
+      "name": "High-Waisted Tailored Linen Trousers",
+      "brand": "Mango",
+      "price": 599.0,
+      "currency": "MAD",
       "category": "Bottom",
       "subCategory": "Trousers",
       "targetGender": "womenswear",
@@ -263,21 +264,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_bot_004.png",
-      "affiliateUrl": "https://www.arket.com/en_usd/women/trousers/high-waist-linen.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://shop.mango.com/ma/fr/search?kw=pantalon+lin+beige&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "bottom_heavy_opposite",
         "warm_palette",
         "neutral_foundation"
       ],
-      "partnerName": "Arket",
-      "description": "Pure European flax with an elasticated waistband and crisp pressed creases for effortless warm-weather tailoring."
+      "partnerName": "Mango Maroc",
+      "description": "Breathable sand linen blend with pressed front creases, ideal for warm Moroccan afternoons and clean tailoring."
     },
     {
       "id": "mp_bot_005",
-      "name": "Relaxed Baggy Cargo Trousers",
-      "brand": "Carhartt WIP",
-      "price": 148.0,
-      "currency": "$",
+      "name": "Relaxed Ripstop Cargo Trousers",
+      "brand": "Pull&Bear",
+      "price": 459.0,
+      "currency": "MAD",
       "category": "Bottom",
       "subCategory": "Trousers",
       "targetGender": "unisex",
@@ -290,20 +291,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_bot_005.png",
-      "affiliateUrl": "https://us.carhartt-wip.com/products/regular-cargo-pant-olive?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.pullandbear.com/ma/fr/q/pantalon%20cargo%20kaki?utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "street_anchor",
         "cool_palette"
       ],
-      "partnerName": "Carhartt WIP",
-      "description": "Heavy cotton Columbia ripstop with double-layer knees and military cargo pockets for defined silhouette contrast."
+      "partnerName": "Pull&Bear Maroc",
+      "description": "Structured olive cotton ripstop with utility flap pockets for sharp streetwear silhouette contrast."
     },
     {
       "id": "mp_sho_001",
-      "name": "Minimalist Low Leather Sneaker",
-      "brand": "Veja",
-      "price": 150.0,
-      "currency": "$",
+      "name": "Minimalist White Leather Court Sneaker",
+      "brand": "Zara",
+      "price": 599.0,
+      "currency": "MAD",
       "category": "Shoes",
       "subCategory": "Sneakers",
       "targetGender": "unisex",
@@ -317,20 +318,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_sho_001.png",
-      "affiliateUrl": "https://www.veja-store.com/en_us/campo-white-natural.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.zara.com/ma/en/search?searchTerm=minimalist+white+sneakers&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "footwear_gap",
         "neutral_foundation"
       ],
-      "partnerName": "Veja",
-      "description": "ChromeFree leather with Amazonian wild rubber cupsole. The single most versatile footwear anchor in modern casual wear."
+      "partnerName": "Zara Maroc",
+      "description": "Clean monochrome low-top sneaker with tonal cupsole. The single most versatile footwear anchor in modern casual wear."
     },
     {
       "id": "mp_sho_002",
-      "name": "Lug-Sole Commando Chelsea Boot",
-      "brand": "Blundstone",
-      "price": 210.0,
-      "currency": "$",
+      "name": "Lug-Sole Leather Chelsea Boot",
+      "brand": "Massimo Dutti",
+      "price": 1490.0,
+      "currency": "MAD",
       "category": "Shoes",
       "subCategory": "Boots",
       "targetGender": "unisex",
@@ -343,20 +344,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_sho_002.png",
-      "affiliateUrl": "https://www.blundstone.com/black-chelsea-boots?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.massimodutti.com/ma/search?q=chelsea+boots+black&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "footwear_gap",
         "weather_cold"
       ],
-      "partnerName": "Blundstone",
-      "description": "Weatherproof premium oiled leather with rugged commando soles. Elevates cropped trousers and raw denim in all climates."
+      "partnerName": "Massimo Dutti Maroc",
+      "description": "Smooth black cowhide leather with elastic side gussets and rugged track soles. Elevates wide trousers and raw denim."
     },
     {
       "id": "mp_sho_003",
       "name": "Suede Penny Loafers in Snuff Brown",
-      "brand": "Morjas",
-      "price": 260.0,
-      "currency": "$",
+      "brand": "Massimo Dutti",
+      "price": 1290.0,
+      "currency": "MAD",
       "category": "Shoes",
       "subCategory": "Dress Shoes",
       "targetGender": "menswear",
@@ -369,21 +370,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_sho_003.png",
-      "affiliateUrl": "https://www.morjas.com/product/the-penny-loafer-brown-suede?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.massimodutti.com/ma/search?q=suede+penny+loafers+brown&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "footwear_gap",
         "warm_palette",
         "smart_tailored"
       ],
-      "partnerName": "Morjas",
-      "description": "Handcrafted Goodyear-welted suede loafers with low-profile leather soles. Adds understated European charm to tailoring."
+      "partnerName": "Massimo Dutti Maroc",
+      "description": "Soft split-suede penny loafers in warm tobacco brown. Adds effortless Mediterranean elegance to tailored trousers."
     },
     {
       "id": "mp_sho_004",
-      "name": "Retro 70s Gum-Sole Court Trainer",
+      "name": "Samba OG Gum-Sole Court Trainer",
       "brand": "Adidas Originals",
-      "price": 100.0,
-      "currency": "$",
+      "price": 1250.0,
+      "currency": "MAD",
       "category": "Shoes",
       "subCategory": "Sneakers",
       "targetGender": "unisex",
@@ -397,20 +398,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_sho_004.png",
-      "affiliateUrl": "https://www.adidas.com/us/samba-og-shoes/B75806.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.adidas.co.ma/fr/search?q=samba+og&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "footwear_gap",
         "street_anchor"
       ],
-      "partnerName": "Adidas",
-      "description": "Soft leather upper with iconic suede T-toe overlay and dark amber gum-rubber outsole."
+      "partnerName": "Adidas Maroc",
+      "description": "Iconic full-grain leather trainer with grey suede T-toe overlay and dark amber gum-rubber outsole."
     },
     {
       "id": "mp_out_001",
-      "name": "Tailored Double-Breasted Wool Overcoat",
-      "brand": "SuitSupply",
-      "price": 399.0,
-      "currency": "$",
+      "name": "Tailored Wool-Blend Camel Overcoat",
+      "brand": "Massimo Dutti",
+      "price": 2490.0,
+      "currency": "MAD",
       "category": "Outerwear",
       "subCategory": "Outerwear",
       "targetGender": "menswear",
@@ -423,21 +424,21 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_out_001.png",
-      "affiliateUrl": "https://suitsupply.com/en-us/men/coats/camel-wool-overcoat?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.massimodutti.com/ma/search?q=camel+wool+coat&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "layering_piece",
         "warm_palette",
         "weather_cold"
       ],
-      "partnerName": "SuitSupply",
-      "description": "Pure Italian wool woven in Biella with broad peak lapels and horn buttons. Transforms plain hoodies and tees into polished fits."
+      "partnerName": "Massimo Dutti Maroc",
+      "description": "Structured wool-blend overcoat with tailored lapels and horn-effect buttons. Instantly polishes hoodies and tees."
     },
     {
       "id": "mp_out_002",
-      "name": "Relaxed Trench Coat in Sand Gabardine",
+      "name": "Classic Belted Trench Coat in Sand",
       "brand": "Mango",
-      "price": 169.99,
-      "currency": "$",
+      "price": 1199.0,
+      "currency": "MAD",
       "category": "Outerwear",
       "subCategory": "Outerwear",
       "targetGender": "womenswear",
@@ -450,20 +451,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_out_002.png",
-      "affiliateUrl": "https://shop.mango.com/us/women/coats/classic-trench-sand.html?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://shop.mango.com/ma/fr/search?kw=trench+beige&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "layering_piece",
         "neutral_foundation"
       ],
-      "partnerName": "Mango",
-      "description": "Water-repellent cotton-blend gabardine with tortoiseshell buttons and belt tie. The epitome of timeless transitional layering."
+      "partnerName": "Mango Maroc",
+      "description": "Water-repellent cotton gabardine trench with tortoiseshell buttons and tie belt. Timeless transitional Moroccan layering."
     },
     {
       "id": "mp_out_003",
-      "name": "Cropped Minimalist MA-1 Bomber Jacket",
-      "brand": "Alpha Industries",
-      "price": 190.0,
-      "currency": "$",
+      "name": "Cropped Minimalist Nylon Bomber Jacket",
+      "brand": "Bershka",
+      "price": 699.0,
+      "currency": "MAD",
       "category": "Outerwear",
       "subCategory": "Outerwear",
       "targetGender": "unisex",
@@ -476,20 +477,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_out_003.png",
-      "affiliateUrl": "https://www.alphaindustries.com/products/ma-1-bomber-jacket-sage?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.bershka.com/ma/q/blouson%20bomber?utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "layering_piece",
         "street_anchor"
       ],
-      "partnerName": "Alpha Industries",
-      "description": "Midweight flight nylon with signature utility sleeve pocket. Creates sharp boxy volume over slim or wide trousers."
+      "partnerName": "Bershka Maroc",
+      "description": "Midweight matte flight nylon with sleeve utility pocket. Builds crisp boxy volume over slim or wide trousers."
     },
     {
       "id": "mp_acc_001",
-      "name": "Full-Grain Italian Leather Minimal Belt",
-      "brand": "Unrecorded",
-      "price": 65.0,
-      "currency": "$",
+      "name": "Full-Grain Leather Minimalist Belt",
+      "brand": "Massimo Dutti",
+      "price": 459.0,
+      "currency": "MAD",
       "category": "Accessories",
       "subCategory": "Belts",
       "targetGender": "unisex",
@@ -502,20 +503,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_acc_001.png",
-      "affiliateUrl": "https://unrecorded.co/products/classic-leather-belt-black?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.massimodutti.com/ma/search?q=leather+belt+black&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "accessory_boost",
         "neutral_foundation"
       ],
-      "partnerName": "Unrecorded",
-      "description": "30mm vegetable-tanned Italian leather strap paired with brushed nickel hardware to anchor tucked shirts."
+      "partnerName": "Massimo Dutti Maroc",
+      "description": "30mm smooth bovine leather strap paired with brushed silver buckle hardware to anchor tucked shirts."
     },
     {
       "id": "mp_acc_002",
-      "name": "Unstructured Washed Cotton Twill Cap",
-      "brand": "Norse Projects",
-      "price": 70.0,
-      "currency": "$",
+      "name": "Washed Cotton Twill Unstructured Cap",
+      "brand": "Pull&Bear",
+      "price": 159.0,
+      "currency": "MAD",
       "category": "Accessories",
       "subCategory": "Hats/Beanies",
       "targetGender": "unisex",
@@ -528,20 +529,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_acc_002.png",
-      "affiliateUrl": "https://www.norseprojects.com/store/men/accessories/twill-sports-cap-navy?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.pullandbear.com/ma/fr/q/casquette%20marine?utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "accessory_boost",
         "cool_palette"
       ],
-      "partnerName": "Norse Projects",
-      "description": "Embroidered Danish design on six-panel low profile washed twill with self-fabric back buckle adjuster."
+      "partnerName": "Pull&Bear Maroc",
+      "description": "Low-profile six-panel washed navy cotton twill with back metal clasp adjuster for effortless off-duty styling."
     },
     {
       "id": "mp_acc_003",
-      "name": "Heavy Duck Canvas Everyday Market Tote",
-      "brand": "L.L.Bean",
-      "price": 45.0,
-      "currency": "$",
+      "name": "Heavy Cotton Canvas Everyday Tote",
+      "brand": "Stradivarius",
+      "price": 299.0,
+      "currency": "MAD",
       "category": "Accessories",
       "subCategory": "Bags",
       "targetGender": "unisex",
@@ -555,20 +556,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_acc_003.png",
-      "affiliateUrl": "https://www.llbean.com/llb/shop/boat-and-tote-bag?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.stradivarius.com/ma/en/search?q=canvas+tote+bag&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "accessory_boost",
         "neutral_foundation"
       ],
-      "partnerName": "L.L.Bean",
-      "description": "24oz rugged cotton canvas tested to hold 500 lbs. Practical, sculptural, and effortless for everyday movement."
+      "partnerName": "Stradivarius Maroc",
+      "description": "Structured heavyweight ecru canvas with contrast navy straps. Practical, sculptural, and spacious for city errands."
     },
     {
       "id": "mp_jwl_001",
-      "name": "Brushed Solid Sterling Silver Curb Chain",
-      "brand": "Tom Wood",
-      "price": 180.0,
-      "currency": "$",
+      "name": "Brushed Stainless Steel Curb Chain",
+      "brand": "Zara",
+      "price": 229.0,
+      "currency": "MAD",
       "category": "Jewelry",
       "subCategory": "Necklace",
       "targetGender": "unisex",
@@ -582,20 +583,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_jwl_001.png",
-      "affiliateUrl": "https://www.tomwoodproject.com/product/curb-chain-m-silver?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.zara.com/ma/en/search?searchTerm=silver+chain+necklace&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "accessory_boost",
         "jewelry_anchor"
       ],
-      "partnerName": "Tom Wood",
-      "description": "Recycled 925 sterling silver curb links coated with white rhodium to prevent tarnishing. Adds instant polish at the collar."
+      "partnerName": "Zara Maroc",
+      "description": "Clean silver-tone curb link chain that adds sharp metallic polish at the neckline of tees and open shirts."
     },
     {
       "id": "mp_jwl_002",
       "name": "Minimalist Matte Field Watch 38mm",
       "brand": "Seiko",
-      "price": 275.0,
-      "currency": "$",
+      "price": 2890.0,
+      "currency": "MAD",
       "category": "Jewelry",
       "subCategory": "Watch",
       "targetGender": "unisex",
@@ -610,20 +611,20 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_jwl_002.png",
-      "affiliateUrl": "https://seikousa.com/products/srpg35?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.jumia.ma/catalog/?q=seiko+5+field+watch&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "accessory_boost",
         "jewelry_anchor"
       ],
-      "partnerName": "Seiko",
-      "description": "Automatic mechanical movement encased in brushed surgical stainless steel with luminous hands and olive nylon strap."
+      "partnerName": "Jumia Maroc",
+      "description": "Brushed stainless steel mechanical field watch with luminous markers and olive nylon strap. Built for daily versatility."
     },
     {
       "id": "mp_jwl_003",
-      "name": "Cushion Cut Natural Onyx Signet Ring",
-      "brand": "Mejuri",
-      "price": 98.0,
-      "currency": "$",
+      "name": "Cushion-Cut Black Onyx Signet Ring",
+      "brand": "Atelier Casa",
+      "price": 390.0,
+      "currency": "MAD",
       "category": "Jewelry",
       "subCategory": "Ring",
       "targetGender": "unisex",
@@ -637,13 +638,13 @@
       ],
       "imageAsset": null,
       "remoteImageUrl": "https://cdn.jsdelivr.net/gh/33N3S/fitted-config@main/images/mp_jwl_003.png",
-      "affiliateUrl": "https://mejuri.com/shop/products/black-onyx-square-ring?utm_source=fitted&utm_medium=app",
+      "affiliateUrl": "https://www.jumia.ma/catalog/?q=bague+chevaliere+onyx+noir&utm_source=fitted&utm_medium=app&utm_campaign=missing_piece",
       "gapTags": [
         "accessory_boost",
         "jewelry_anchor"
       ],
-      "partnerName": "Mejuri",
-      "description": "Hand-set genuine black onyx stone flush on 18k gold vermeil over sterling silver. Understated luxury statement."
+      "partnerName": "Atelier Casa · Jumia Maroc",
+      "description": "Flush-set black onyx stone in gold-plated sterling silver. Understated statement ring crafted for modern tailoring."
     }
   ]
 }
